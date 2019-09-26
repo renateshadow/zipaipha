@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ozohtooxu.kylir.com/sitemap.xml
